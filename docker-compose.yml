@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  burberbreakfast:
+    image: ${DOCKER_REGISTRY-}burberbreakfast
+    build:
+      context: .
+      dockerfile: BurberBreakfast/Dockerfile

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurberBreakfast", "BurberBreakfast\BurberBreakfast.csproj", "{A7BD5DA9-7230-48BB-87DB-E9E2F0ED4F33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurberBreakfast.Contracts", "BurberBreakfast.Contracts\BurberBreakfast.Contracts.csproj", "{87BEE6D1-B363-4805-93B5-7144E173586D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1565F6CC-B11E-4D71-9639-A7953E115F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BD5DA9-7230-48BB-87DB-E9E2F0ED4F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BD5DA9-7230-48BB-87DB-E9E2F0ED4F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BD5DA9-7230-48BB-87DB-E9E2F0ED4F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BD5DA9-7230-48BB-87DB-E9E2F0ED4F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BEE6D1-B363-4805-93B5-7144E173586D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BEE6D1-B363-4805-93B5-7144E173586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BEE6D1-B363-4805-93B5-7144E173586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BEE6D1-B363-4805-93B5-7144E173586D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1565F6CC-B11E-4D71-9639-A7953E115F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1565F6CC-B11E-4D71-9639-A7953E115F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1565F6CC-B11E-4D71-9639-A7953E115F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1565F6CC-B11E-4D71-9639-A7953E115F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

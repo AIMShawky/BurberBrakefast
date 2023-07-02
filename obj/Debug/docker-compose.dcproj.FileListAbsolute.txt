@@ -1,0 +1,17 @@
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.deps.json
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.runtimeconfig.json
+D:\Projects\BurberBrakefast\bin\Debug\appsettings.Development.json
+D:\Projects\BurberBrakefast\bin\Debug\appsettings.json
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.exe
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.dll
+D:\Projects\BurberBrakefast\bin\Debug\Serilog.dll
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.Contracts.dll
+D:\Projects\BurberBrakefast\bin\Debug\Serilog.Extensions.Hosting.dll
+D:\Projects\BurberBrakefast\bin\Debug\Serilog.Settings.Configuration.dll
+D:\Projects\BurberBrakefast\bin\Debug\Serilog.Extensions.Logging.dll
+D:\Projects\BurberBrakefast\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.pdb
+D:\Projects\BurberBrakefast\bin\Debug\BurberBreakfast.Contracts.pdb
+D:\Projects\BurberBrakefast\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Projects\BurberBrakefast\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Projects\BurberBrakefast\obj\Debug\docker-compose.dcproj.CopyComplete
